@@ -1,6 +1,8 @@
 # 5-stage-RISC-V-pipeline
 Hi folks 👋🏻  
-In this repository I wrote verilog code to desgin 5 stage 64-bit RISC-V pipeline. 
+In this repository I wrote verilog code to desgin 5 stage 64-bit RISC-V pipeline.   
+__Architecture(page 5 from project report): (A picture speaks 1000 words!!)__
+![architecture.jpg](architecture.jpg)
 
 ## Table of contents
 | file | description |
