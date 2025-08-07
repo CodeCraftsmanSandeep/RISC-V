@@ -18,7 +18,7 @@ This repository contains a **highly sophisticated Verilog code** for designing a
 Here's a glimpse of the architecture (Check out page 5 from the project report):  
 *_"A picture is worth a thousand words!"_*
 
-![architecture.jpg](architecture.jpg)
+![architecture.jpg](assests/architecture.jpg)
 
 ---
 
@@ -26,9 +26,9 @@ Here's a glimpse of the architecture (Check out page 5 from the project report):
 
 | 📁 File | 📝 Description |
 |:--------|:--------------|
-| [verilog_code.v](verilog_code.v) | Verilog code of the 5-stage RISC-V pipeline |
-| [test-bench.v](test-bench.v) | Test bench to verify the machine code output |
-| [project_report.pdf](project_report.pdf) | Detailed project report |
+| [verilog_code.v](hardware_verilog-code/verilog_code.v) | Verilog code of the 5-stage RISC-V pipeline |
+| [test_bench.v](hardware_verilog-code/test_bench.v) | Test bench to verify the machine code output |
+| [project_report.pdf](reports/project_report.pdf) | Detailed project report |
 
 ---
 
@@ -109,7 +109,7 @@ In a single-cycle processing unit, instructions are executed sequentially, one a
 
 ---
 
-For more details, please refer to the [project report](project_report.pdf).
+For more details, please refer to the [project report](reports/project_report.pdf).
 
 --- 
 
